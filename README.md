@@ -302,6 +302,4 @@ After (원리를 알고):
 
 **"파이프라인은 코드가 신뢰로 바뀌는 과정이다"**
 
-[![GitHub](https://img.shields.io/badge/GitHub-dev--book--lab-181717?style=flat-square&logo=github)](https://github.com/dev-book-lab)
-
 </div>
